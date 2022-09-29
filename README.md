@@ -1,4 +1,4 @@
-# --ThreadPools
+# ThreadPools
 用java实现的线程池；
 
 develop-simple分支：简易版 </br>
