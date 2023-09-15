@@ -1,8 +1,8 @@
 package java.customize.threadPools;
 
 /**
- * @
- * @date 2020/6/11
+ * @author TT-berg
+ * @date 2022/3/18
  */
 public interface ThreadFactory {
 

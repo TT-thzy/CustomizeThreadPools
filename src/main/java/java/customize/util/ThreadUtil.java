@@ -5,8 +5,8 @@ import java.io.StringWriter;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @
- * @date 2020/3/18
+ * @author TT-berg
+ * @date 2022/3/18
  */
 public final class ThreadUtil {
 

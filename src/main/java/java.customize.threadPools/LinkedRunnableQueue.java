@@ -3,8 +3,8 @@ package java.customize.threadPools;
 import java.util.LinkedList;
 
 /**
- * @
- * @date 2020/6/11
+ * @author TT-berg
+ * @date 2022/3/18
  */
 public class LinkedRunnableQueue implements RunnableQueue {
 
